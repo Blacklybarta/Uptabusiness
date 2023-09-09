@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="motto">Propulse ta business</string>
+    <string name="home">Accueil</string>
+    <string name="portfolio">Portfolio</string>
+    <string name="culinary">Culinaire</string>
+    <string name="events">Evénementiel</string>
+    <string name="product">Produits</string>
+    <string name="corporate">Corporatif</string>
+</resources>
